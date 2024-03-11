@@ -5,6 +5,7 @@
 ## The Solution
 
 ## Key Insights
+![IMAGE](https://github.com/WamzMwangi/Food_CarbonFootprint_Vizualization_Project/blob/main/Images/CO2_Emmissions_Vs_Consumption.png?raw=true)
 
 ## Technologies used
 
