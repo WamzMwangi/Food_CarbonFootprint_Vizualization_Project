@@ -8,4 +8,4 @@
 
 ## Technologies used
 
-[data](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-02-18/food_consumption.csv)
+#### Link to data: [data](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-02-18/food_consumption.csv)
